@@ -1,0 +1,14 @@
+spriteTypes = { 
+	## category icon
+	SpriteType = { 
+		name = "decision_category_icon_modify_rules"
+		texturefile = "gfx/interface/decisions/decision_category_icon_modify_rules.dds"
+	}
+
+	## rule icon
+	SpriteType = { 
+		name = "decision_icon_modify_rules"
+		texturefile = "gfx/interface/decisions/decision_icon_modify_rules.dds"
+	}
+
+}

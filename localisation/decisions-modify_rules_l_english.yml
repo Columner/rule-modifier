@@ -1,0 +1,9 @@
+﻿l_english:
+modify_rules:0 "Modify Rules"
+modify_rules_desc:0 ""
+allow_create_factions:0 "Allow Faction Creation"
+allow_change_ideology:0 "Allow Changing Ideology in a Peace Conference"
+allow_send_volunteers:0 "Allow Sending Volunteers"
+allow_guarantee_other_ideologies:0 "Allow Guaranteeing Other Ideologies"
+allow_puppet:0 "Allow Puppeting"
+allow_suicide_attack:0 "Allow Kamikaze Suicide Attacks"
